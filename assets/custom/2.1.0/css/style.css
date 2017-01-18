@@ -6,7 +6,8 @@
 /*------------------------------------------------------------------
 [Color Scheme / Colors, textures]
 */
-words-wrapper
+contacts
+
 
 .e-bg-light-texture {
   background: url("../images/backgrounds/extra_clean_paper.png"); }
@@ -2518,6 +2519,11 @@ section {
 #contacts #contacts-data p {
   line-height: 2em; }
 
+#smmap{
+  width: 100%;
+  height: auto;
+}
+
 /* ------------------------------------ Feedback Page */
 #feedback .feedback .wpcf7-form span.wpcf7-form-control-wrap {
   position: relative; }
@@ -3064,7 +3070,7 @@ footer.light {
 #google-map {
   width: 100%; }
   #google-map img {
-    max-width: none; }
+    max-width: 100%; }
 
 .bigmap {
   height: 400px !important; }
