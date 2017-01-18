@@ -6,7 +6,8 @@
 /*------------------------------------------------------------------
 [Color Scheme / Colors, textures]
 */
-contacts
+
+uppercase
 
 
 .e-bg-light-texture {
@@ -863,7 +864,7 @@ ul.list-o {
   text-transform: uppercase; }
 
 i {
-  color: #b7b7b7; }
+  color: #ffffff; }
 
 .hidden {
   display: none; }
